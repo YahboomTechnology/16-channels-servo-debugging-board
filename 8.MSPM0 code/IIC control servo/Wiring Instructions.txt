@@ -1,0 +1,5 @@
+MSPM0G3507	16路舵机驱动板
+        PB6		         SCL
+        PB7		         SDA
+        3V3		         VCC
+        GND		         GND
