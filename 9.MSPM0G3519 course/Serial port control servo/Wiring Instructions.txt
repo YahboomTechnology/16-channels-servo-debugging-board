@@ -1,0 +1,5 @@
+MSPM0G3507	16-channel servo driver board
+        PA10		         RXD
+        PA11		         TXD
+        3V3		         VCC
+        GND		         GND
